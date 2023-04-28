@@ -13,9 +13,9 @@ dimensions:
   height: 2527.46
 sponsor:
   url: 'https://liblab.com/blog/why-do-i-need-to-build-an-sdk?utm_source=roadmap_devops&utm_medium=edge_stack&utm_campaign=april23'
-  title: 'Preferred Partner Content'
-  imageUrl: 'https://i.imgur.com/ntum19H.png'
-  description: 'Learn how to enhance API adoption, developer experience, and security by providing SDKs for your APIs.'
+  title: 'Why do I need an SDK?'
+  imageUrl: 'https://i.imgur.com/ZmuZUmS.png'
+  description: 'Enhance API adoption, developer experience, and security by providing SDKs for your APIs.'
   event:
     category: 'SponsorClick'
     action: 'Liblab Redirect'
